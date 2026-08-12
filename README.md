@@ -27,9 +27,14 @@ Bienvenue sur le projet **Tron**, une réimplémentation en Python du célèbre 
 Voici la procédure complète pour compiler les sources et lancer le jeu:
 
 ```bash
+# 1. Cloner le dépôt
 git clone git@github.com:jenny-rcd/Tron.git
 cd ./Tron
-pip install pygame (a faire si pygame n'est pas installer)
+
+# 2. Installer Pygame (si ce n'est pas déjà fait)
+pip install pygame
+
+# 3. Lancer le jeu
 python Tron.py
 ```
 
