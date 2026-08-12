@@ -4,7 +4,7 @@ Voici la procédure complète pour compiler les sources et lancer le jeu:
 
 ```bash
 git clone git@github.com:jenny-rcd/Tron.git
-cd ./Tron-main/Tron
+cd ./Tron
 pip install pygame (a faire si pygame n'est pas installer)
 python Tron.py
 ```
