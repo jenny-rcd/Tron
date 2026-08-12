@@ -1,6 +1,6 @@
 #  Jeu Tron en Python
 
-Bienvenue sur le projet **Tron**, une réimplémentation en Python du célèbre jeu d'arcade rétrofuturiste. Ce projet a été conçu de A à Z en gérant à la fois l'interface visuelle (Front-end) et la logique algorithmique du jeu (Back-end) se projet a été réaliser quand j'était en première dans la cadre d'un projet de NSI.
+Bienvenue sur le projet **Tron**, une réimplémentation en Python du célèbre jeu d'arcade rétrofuturiste. Ce projet a été conçu de A à Z en gérant à la fois l'interface visuelle (Front-end) et la logique algorithmique du jeu (Back-end) se projet a été réaliser en première dans le cadre d'un projet de NSI.
 
 ##  Fonctionnalités Principales
 
