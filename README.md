@@ -5,7 +5,7 @@ Bienvenue sur le projet **Tron**, une réimplémentation en Python du célèbre 
 ##  Fonctionnalités Principales
 
 * **Interface & Visuels (Front-end) :**
-  * Création d'un menu, d'une leaderboard et d'un menu pour sélectionner le nombre de joueur
+  * Création d'un menu, d'un leaderboard et d'un menu pour sélectionner le nombre de joueur
   * Gestion de l'affichage en temps réel du plateau et des obstacles.
 
 * **Moteur & Logique de jeu (Back-end) :**
